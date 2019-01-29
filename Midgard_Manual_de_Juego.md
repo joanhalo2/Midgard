@@ -296,7 +296,8 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 
 ### 6. CONFIGURACIÓN INICIAL DEL TABLERO
 
-- Distribución inicial de piezas por cada jugador/ra:
+- Distribución inicial de piezas por cada jugador/ra:  
+
   | **Pieza** | **Cantidad inicial**  |
   |   :-:     |     ---               |
   |Jarl |1|  
@@ -306,7 +307,7 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 
 - Disposición de las piezas iniciales en el tablero:  
 ![tablero](game_manual_assets/tablero_disposicion.png)
-    
+
 ### 7. FASES DEL TURNO  
 
   **1. Fase de Sacrificios**  
