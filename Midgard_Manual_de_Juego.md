@@ -1,6 +1,7 @@
 # <p align="center"> MIDGARD : El juego de mesa </p>
 #### Un juego de mesa competitivo inspirado en la cultura Vikinga y la mitología Nordica
 ###### Por: Joan Lopez (jslopezr00@gmail.com)
+###### Repositorio: joanhalo2-hithub
 ###### Jugadores: 2 - 4 | Tiempo: 60 min
 ###### Licencia: Creative Commons  
 ## 0. ÍNDICE  
@@ -15,9 +16,9 @@
   * **4.4** Jarls
 
 **5.** Cartas de Fuerza de Batalla  
-**6.** Configuración inicial del tablero
-**7.** Fases del turno   
-**7.** Recursos  
+**6.** Configuración inicial del tablero   
+**7.** Fases del turno    
+**8.** Recursos  
 
 ### 1. RESUMEN DEL JUEGO   
 El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el ejercito de tu contrincante. Se podría deinir la escencia del juego con las siguientes preguntas:
@@ -294,7 +295,8 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 |11|Tus oponentes **tienen desventaja** en todas sus tiradas el siguiente turno (la desventaja no es acumulable)|
 |12|Ganas **2 unidades especiales a tu elección**|  
 
-### 6. CONFIGURACIÓN INICIAL DEL TABLERO
+### 6. CONFIGURACIÓN INICIAL DE LA PARTIDA
+- Se barajan los mazos de **Fuezas de Batalla Piezas Míticas**
 
 - Distribución inicial de piezas por cada jugador/ra:  
 
@@ -311,16 +313,19 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 ### 7. FASES DEL TURNO  
 
   **1. Fase de Sacrificios**  
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Al inicio de cada turno se pueden gastar los puntos de sacrificio conseguidos hasta el momento ( ![sacrificio](game_manual_assets/sacrifice_icon2.png) ) para obtener ***cartas de apoyo*** bien sean ***Fuerzas de Batalla o Favores de los Dioses***. Los puntos de sacrificio usados no pueden ser recuperados.
+
+  **Si se obtuvieron nuevas piezas, estas ingresan en la LOZA DE ARRANQUE correspondiente**.
 
   **2. Fase de Movimiento**  
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Por cada turno se disponen de **hasta un máximo de 3 unidades de movimiento ( ![movimiento](game_manual_assets/mov_icon.png) )**, estas unidades se pueden distribuir libremente entre las piezas deseadas.
 
   **3. Fase de Ataque**  
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Por cada turno, luego de haberse llevado a cabo la fase de Movimiento correspondiente, **Se pueden declarar hasta un máximo de 3 piezas atacantes que cumplan los requisitos de alcance.**
+  **Cada pieza solo puede atacar 1 única vez.**
 
   **4. Final del turno**  
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar que piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
 
 ### 8. OPEN GAME LICENSE  
 
@@ -358,3 +363,33 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 15. COPYRIGHT NOTICE
 Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
+
+### 9 Recursos de Clip Art por hacer:
+| TIPO DE ARTE       	| DESCRIPCIÓN                   	|  Realizada? 	|
+|--------------------	|-------------------------------	|---	|
+| JARL               	| Lathgerta                     	|  - 	|
+| JARL               	| Ragnar                        	|  - 	|
+| JARL               	| Björn                         	|  - 	|
+| JARL               	| Hervör                        	|  - 	|
+| PIEZA BÁSICA       	| ARQUERO                       	|  - 	|
+| PIEZA BÁSICA       	| LANCERO                       	|  - 	|
+| PIEZA BÁSICA       	| GUERRERO                      	|  - 	|
+| PIEZA ESPECIAL     	| BERSEKER                      	|  - 	|
+| PIEZA ESPECIAL     	| VALKIRIA                      	|  - 	|
+| PIEZA ESPECIAL     	| JINETE DE PONY                	|  - 	|
+| FUERZAS DE BATALLA 	| Impulso de batalla            	|  - 	|
+| FUERZAS DE BATALLA 	| Grito de terror               	|  - 	|
+| FUERZAS DE BATALLA 	| Vigor                         	|  - 	|
+| FUERZAS DE BATALLA 	| Maldición de las runas        	|  - 	|
+| FUERZAS DE BATALLA 	| Ayuda de los aldeanos locales 	|  - 	|
+| FUERZAS DE BATALLA 	| Ayuda del sepulturero         	|  - 	|
+| FUERZAS DE BATALLA 	| Escudo Nuevo                  	|  - 	|
+| FUERZAS DE BATALLA 	| Arma Nueva                    	|  - 	|
+| PIEZAS MÍTICAS     	| Fenrir                        	|  - 	|
+| PIEZAS MÍTICAS     	| Jörmundgander                 	|  - 	|
+| PIEZAS MÍTICAS     	| Ymir                          	|  - 	|
+| PIEZAS MÍTICAS     	| Fafnir                        	|  - 	|
+| PIEZAS MÍTICAS     	| NidHogg                       	|  - 	|
+| PIEZAS MÍTICAS     	| Auðumbla                      	|  - 	|
+| PIEZAS MÍTICAS     	| Gullinbursti                  	|  - 	|
+| PIEZAS MÍTICAS     	| Sigurd                        	|  - 	|
