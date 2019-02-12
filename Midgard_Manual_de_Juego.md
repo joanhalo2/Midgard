@@ -4,6 +4,7 @@
 ###### Repositorio: joanhalo2-hithub
 ###### Jugadores: 2 - 4 | Tiempo: 60 min
 ###### Licencia: Creative Commons  
+______________________________________________________________________________
 ## 0. ÍNDICE  
 
 **1.** Résumen del juego  
@@ -19,7 +20,7 @@
 **6.** Configuración inicial del tablero   
 **7.** Fases del turno    
 **8.** Recursos  
-
+______________________________________________________________________________
 ### 1. RESUMEN DEL JUEGO   
 El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el ejercito de tu contrincante. Se podría deinir la escencia del juego con las siguientes preguntas:
 
@@ -33,6 +34,7 @@ El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el eje
   Usa fundalmente elementos de azar por medio del lanzamiento de **dados de 4, 6, y 20 lados** respectivamente. Adicionalmente el tablero basado en piezas hexagonales permite simular un campo de batalla y la utilización de elementos propios de juegos de cartas coleccionables, así como elementos de
   juegos de rol.  
 
+______________________________________________________________________________
 ### 2. TABLERO   
 
 #### 2.1 Disposición (para 3 jugadores)  
@@ -53,8 +55,8 @@ El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el eje
 | 11 Tierras  | 14 Tierras  | 19 Tierras  |
 | **Total: 91**  | **Total: 127**  | **Total: 169**  |
 
-
-### 3. REGLAS y GLORARIO
+______________________________________________________________________________
+### 3. REGLAS y GLOSARIO
 #### 3.1 Definiciones
 - ***Pieza:***  
   Ficha que representa a una (1) unidad de batalla (Jarl, Guerrero, etc)  
@@ -103,8 +105,9 @@ El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el eje
     Si 2 o más piezas están adyacentes a una misma pieza Mítica se pueden sumar los resultados de las tiradas de ataque con sus bonificadores correspondientes.
 
   - **Realizar sacrificios:**  
-    Canjear las piezas enemigas capturadas por su valor total de **Puntos de Sacrificio** con el objetivo de obtener **Cartas** de ***Fueza de Batalla*** o ***Favores de los Dioses***.
+    Canjear las piezas enemigas capturadas por su valor total de **Puntos de Sacrificio** con el objetivo de obtener **Cartas** de ***Fueza de Batalla*** o ***Favores de los Dioses***.   
 
+______________________________________________________________________________
 ### 4. PIEZAS  
 ##### **4.1 Piezas Básicas**  
 <!-------------------------------- GUERRERO-------------------------------------->
@@ -225,6 +228,186 @@ El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el eje
 | Gullinbursti  |Cerdo Gigante   |Montura para el Jarl|
 | Sigurd  | Héroe Mitológico  | Bonificadores de ataque X area|
 
+###### Tamaño de lozas y Área de Efecto
+Las piezas míticas a diferencias de las piezas normales **ocupan 7 lozas** y su área de efecto es de **9 lozas:**  
+
+![areas](game_manual_assets/effect_areas.png)   
+
+
+###### Movimiento de piezas míticas   
+Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usando como ejemplo el siguiente diagrama:
+
+![Mitic_mov](game_manual_assets/mitic_movement.png)
+
+###### Fenrir:   
+<!-------------------------------- Fenrir -------------------------------------->
+<table>
+<tr><th> Fenrir </th><th> VALORES</th></tr>
+<tr><td>
+
+![token](game_manual_assets/Mitic.png)
+
+</td><td>
+
+|   Característica| Valor                                        |
+|:-----------------:|:------------------------------------------:|
+| ![armadura](game_manual_assets/armor_icon.png)  | **20**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
+| ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
+| ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
+</td></tr>
+<tr><th> Efecto: </th><th>Daño x +area TODO</th></tr>
+</table>
+
+###### Jörmundgander:
+<!-------------------------------- Jörmundgander -------------------------------------->
+<table>
+<tr><th> Jörmundgander </th><th> VALORES</th></tr>
+<tr><td>
+
+![token](game_manual_assets/Mitic.png)
+
+</td><td>
+
+|   Característica| Valor                                        |
+|:-----------------:|:------------------------------------------:|
+| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
+| ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+</td></tr>
+<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+</table>
+
+###### Ymir:
+<!-------------------------------- Ymir -------------------------------------->
+<table>
+<tr><th> Ymir </th><th> VALORES</th></tr>
+<tr><td>
+
+![token](game_manual_assets/Mitic.png)
+
+</td><td>
+
+|   Característica| Valor                                        |
+|:-----------------:|:------------------------------------------:|
+| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
+| ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+</td></tr>
+<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+</table>
+
+###### Fafnir:
+<!-------------------------------- Fafnir -------------------------------------->
+<table>
+<tr><th> Fafnir </th><th> VALORES</th></tr>
+<tr><td>
+
+![token](game_manual_assets/Mitic.png)
+
+</td><td>
+
+|   Característica| Valor                                        |
+|:-----------------:|:------------------------------------------:|
+| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
+| ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+</td></tr>
+<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+</table>
+
+###### NidHogg:   
+<!-------------------------------- NidHogg -------------------------------------->
+<table>
+<tr><th> NidHogg </th><th> VALORES</th></tr>
+<tr><td>
+
+![token](game_manual_assets/Mitic.png)
+
+</td><td>
+
+|   Característica| Valor                                        |
+|:-----------------:|:------------------------------------------:|
+| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
+| ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+</td></tr>
+<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+</table>
+
+###### Auðumbla:
+<!-------------------------------- Auðumbla -------------------------------------->
+<table>
+<tr><th> Auðumbla </th><th> VALORES</th></tr>
+<tr><td>
+
+![token](game_manual_assets/Mitic.png)
+
+</td><td>
+
+|   Característica| Valor                                        |
+|:-----------------:|:------------------------------------------:|
+| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
+| ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+</td></tr>
+<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+</table>
+
+###### Gullinbursti:
+<!-------------------------------- Gullinbursti -------------------------------------->
+<table>
+<tr><th> Gullinbursti </th><th> VALORES</th></tr>
+<tr><td>
+
+![token](game_manual_assets/Mitic.png)
+
+</td><td>
+
+|   Característica| Valor                                        |
+|:-----------------:|:------------------------------------------:|
+| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
+| ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+</td></tr>
+<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+</table>
+
+###### Sigurd:
+<!-------------------------------- Sigurd -------------------------------------->
+<table>
+<tr><th> Sigurd </th><th> VALORES</th></tr>
+<tr><td>
+
+![token](game_manual_assets/Mitic.png)
+
+</td><td>
+
+|   Característica| Valor                                        |
+|:-----------------:|:------------------------------------------:|
+| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
+| ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+</td></tr>
+<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+</table>
+
+
 ##### **4.4 JARLS**  
 
 ###### Principales Características:
@@ -257,6 +440,7 @@ Para atacar a un/una Jarl, las piezas atacantes deben superar en una tirada de a
 
 **7.** Valor inicial del contador de vidas del/la Jarl.  
 
+______________________________________________________________________________
 ### 5. CARTAS DE APOYO
 Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game_manual_assets/sacrifice_icon2.png) por carta según la siguiente regla:
 
@@ -295,6 +479,7 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 |11|Tus oponentes **tienen desventaja** en todas sus tiradas el siguiente turno (la desventaja no es acumulable)|
 |12|Ganas **2 unidades especiales a tu elección**|  
 
+______________________________________________________________________________
 ### 6. CONFIGURACIÓN INICIAL DE LA PARTIDA
 - Se barajan los mazos de **Fuezas de Batalla Piezas Míticas**
 
@@ -310,6 +495,7 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 - Disposición de las piezas iniciales en el tablero:  
 ![tablero](game_manual_assets/tablero_disposicion.png)
 
+______________________________________________________________________________
 ### 7. FASES DEL TURNO  
 
   **1. Fase de Sacrificios**  
@@ -326,7 +512,7 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 
   **4. Final del turno**  
   Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar que piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
-
+______________________________________________________________________________
 ### 8. OPEN GAME LICENSE  
 
 ##### OPEN GAME LICENSE Version 1.0a
@@ -364,7 +550,23 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 15. COPYRIGHT NOTICE
 Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 
+______________________________________________________________________________
+
 ### 9 Recursos de Clip Art por hacer:
+- Cortas piezas hexagonales (169 mínimo +20 de repuesto)
+  - 169 Principales
+  - 20 de repuesto
+- Cortas las bases de cada Pieza
+  - 50 bases estandar por cada color (blanco,negro,azul,rojo) (200)
+  - 12 bases grandes para piezas miticas (3 por cada color)
+
+- Diseñar fichas de apoyo:
+  - Piezas Básicas + Equivalencias en canje de Puntos de Sacrificio.
+  - Fases del Turno + resumen normas (CD, ventaja, desventaja).
+  - Tabla de Favores de los Dioses
+
+- Tabla de artes pendientes:
+
 | TIPO DE ARTE       	| DESCRIPCIÓN                   	|  Realizada? 	|
 |--------------------	|-------------------------------	|---	|
 | JARL               	| Lathgerta                     	|  - 	|
