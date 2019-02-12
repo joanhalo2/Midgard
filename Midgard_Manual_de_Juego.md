@@ -1,5 +1,5 @@
 # <p align="center"> MIDGARD : El juego de mesa </p>
-#### Un juego de mesa competitivo inspirado en la cultura Vikinga y la mitología Nordica
+#### Un juego de mesa competitivo inspirado en la cultura Vikinga y la mitología Nórdica
 ###### Por: Joan Lopez (jslopezr00@gmail.com)
 
 ###### Repositorio: https://github.com/joanhalo2/Midgard
@@ -9,7 +9,7 @@
 ______________________________________________________________________________
 ## 0. ÍNDICE  
 
-**1.** Résumen del juego  
+**1.** Resumen del juego  
 **2.** Tablero  
 **3.** Reglas y Glosario  
 **4.** Piezas   
@@ -24,16 +24,16 @@ ______________________________________________________________________________
 **8.** Recursos  
 ______________________________________________________________________________
 ### 1. RESUMEN DEL JUEGO   
-El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el ejercito de tu contrincante. Se podría deinir la escencia del juego con las siguientes preguntas:
+El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el ejercito de tu contrincante. Se podría definir la esencia del juego con las siguientes preguntas:
 
 - **¿Que tipo de juego es Midgard?**  
-  Midgard es un juego de tipo competitivo cuyo principal objetivo es derrotar al Jarl enemigo diezmando su ejercito (en princípio).  
-- **¿Que historia cuenta el juego?**  
-  Midgar se inspira en el ajedréz para la base de enfrentamiento entre dos ejercitos Vikingos, pero utiliza elementos de la mitolgía Nordica y de aspectos militares historicos de la epoca Vikinga (siglos IX,X,XII).
+  Midgard es un juego de tipo competitivo cuyo principal objetivo es derrotar al Jarl enemigo derrotando a su vez al ejercito enemigo.  
+- **¿Qué historia cuenta el juego?**  
+  Midgar se inspira en el ajedrez para la base de enfrentamiento entre dos ejércitos Vikingos, pero utiliza elementos de la mitología Nórdica y de aspectos militares historicos de la época Vikinga (siglos IX,X,XII).
 - **¿Para cuantas personas está diseñado?**  
   Inicialmente está diseñado para dos (2) personas, pero si se extiende el tamaño del tablero pueden jugar hasta cuatro(4) personas.  
 - **Cuales son sus principales mecánicas?**  
-  Usa fundalmente elementos de azar por medio del lanzamiento de **dados de 4, 6, y 20 lados** respectivamente. Adicionalmente el tablero basado en piezas hexagonales permite simular un campo de batalla y la utilización de elementos propios de juegos de cartas coleccionables, así como elementos de
+  Usa principalmente elementos de azar por medio del lanzamiento de **dados de 4, 6, y 20 lados** respectivamente. Adicionalmente el tablero basado en piezas hexagonales permite simular un campo de batalla y la utilización de elementos propios de juegos de cartas coleccionables, así como elementos de
   juegos de rol.  
 
 ______________________________________________________________________________
@@ -42,17 +42,17 @@ ______________________________________________________________________________
 #### 2.1 Disposición (para 3 jugadores)  
 ![tablero](game_manual_assets/tablero.png)  
 
-#### 2.2 Tipos de lozas
+#### 2.2 Tipos de losas
   - ***Charcos***: Aplica ***desventaja*** a todas las tiradas realizadas por cualquier pieza mientras permanezca en esta loza.  
 
-  - ***Praderas***: No aplica ningúna regla.
+  - ***Praderas***: No aplica ninguna regla.
 
   - ***Tierras***: Aplica ***ventaja*** a todas las tiradas realizadas por cualquier pieza mientras permanezca en esta loza.  
 
-#### 2.3 Distribución de lozas
+#### 2.3 Distribución de losas
 | 2 Jugadores  | 3 Jugadores  | 4 Jugadores  |
 |---|---|---|
-| 20 Charchos  | 28 Charcos  | 38 Charcos   |
+| 20 Charcos  | 28 Charcos  | 38 Charcos   |
 | 60 Praderas  | 85 Praderas  | 112 Praderas  |
 | 11 Tierras  | 14 Tierras  | 19 Tierras  |
 | **Total: 91**  | **Total: 127**  | **Total: 169**  |
@@ -69,7 +69,7 @@ ______________________________________________________________________________
 - ***Modificadores:***  
   Son los valores unitarios (ej: +2,+3,+5) que se le adicionan al resultado de una **tirada o lanzamiento**.
 - ***Clase de dificultad (CD):***   
-  Se refiere al numero objetivo que se debe **igualar o superar** en una **tirada**.  
+  Se refiere al número objetivo que se debe **igualar o superar** en una **tirada**.  
   Por ejemplo, una expresión del tipo ```CD16``` indica que en el resultado de una **tirada (sumando los modificadores correspondientes)** debe ser igual o superior a **16**.  
 
 - ***1d20:***  
@@ -88,13 +88,13 @@ ______________________________________________________________________________
 
 #### 3.2 Características
 
-| Característica  |   Simbolo   | Descripción  | Ejemplo  |
+| Característica  |   Símbolo   | Descripción  | Ejemplo  |
 |:---:|:---:|:---:|:---:|
 | Armadura  | ![armadura](game_manual_assets/armor_icon.png)  | Valor de la **CD** a superar con una tirada de un dado **1d20**  | ![armadura](game_manual_assets/armor_example.png) |
 |  Bonificador de Ataque | ![ataque](game_manual_assets/attack_icon.png)  |  **Bonificador** que se debe sumar al resultado de la tirada de **1d20** |![ataque](game_manual_assets/attack_example.png) |
 | Movimiento  | ![movimiento](game_manual_assets/mov_icon.png)  | Cantidad de lozas que se puede mover la pieza por turno | ![movimiento](game_manual_assets/mov_example.png)|
 | Alcance  | ![alcance](game_manual_assets/alcance_icon.png)  | Cantidad **máxima** de lozas que puede alcanzar un ataque de dicha pieza  |![alcance](game_manual_assets/alc_example.png) |
-| Puntos de sacrificio  | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | Valor unitario que sirve para conseguir **Cartas** de ***Fueza de Batalla*** o ***Favores de los Dioses***  | ![alcance](game_manual_assets/sacr_example.png)|
+| Puntos de sacrificio  | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | Valor unitario que sirve para conseguir **Cartas** de ***Fuerza de Batalla*** o ***Favores de los Dioses***  | ![alcance](game_manual_assets/sacr_example.png)|
 
 #### 3.3 ACCIONES  
 
@@ -107,7 +107,7 @@ ______________________________________________________________________________
     Si 2 o más piezas están adyacentes a una misma pieza Mítica se pueden sumar los resultados de las tiradas de ataque con sus bonificadores correspondientes.
 
   - **Realizar sacrificios:**  
-    Canjear las piezas enemigas capturadas por su valor total de **Puntos de Sacrificio** con el objetivo de obtener **Cartas** de ***Fueza de Batalla*** o ***Favores de los Dioses***.   
+    Canjear las piezas enemigas capturadas por su valor total de **Puntos de Sacrificio** con el objetivo de obtener **Cartas** de ***Fuerza de Batalla*** o ***Favores de los Dioses***.   
 
 ______________________________________________________________________________
 ### 4. PIEZAS  
@@ -166,9 +166,9 @@ ______________________________________________________________________________
   </td></tr> </table>
 
 ##### **4.2 Piezas Especiales**   
-<!-------------------------------- BERSEKER -------------------------------------->
+<!-------------------------------- BERSERKER -------------------------------------->
 <table>
-<tr><th> BERSEKER </th><th> VALORES</th></tr>
+<tr><th> BERSERKER </th><th> VALORES</th></tr>
 <tr><td>
 
 ![token](game_manual_assets/test_token.png)
@@ -194,8 +194,8 @@ ______________________________________________________________________________
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **16**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
@@ -219,16 +219,16 @@ ______________________________________________________________________________
 </td></tr> </table>
 
 ##### **4.3 Piezas Míticas**  
-| Nombre  | Descripción  | Efecto |
+<!-- | Nombre  | Descripción  | Efecto |
 |:-:|---|---|
-| Fenrir  | Lobo Gigante |Daño x +area|
+| Fenrir  | Lobo Gigante |Daño x +área|
 | Jörmundgander   | Serpiente Gigante|Veneno X área|
-| Ymir  | Gigante de hielo |Daño x +area|
-| Fafnir | Dragón de fuego  |Daño x +area|
+| Ymir  | Gigante de hielo |Daño x +área|
+| Fafnir | Dragón de fuego  |Daño x +área|
 | NidHogg  | Dragón devorador de cuerpos |Multiplica puntos de sacrificio|
 | Auðumbla  | Vaca Gigante  |Bonificadores de armadura X +área|
 | Gullinbursti  |Cerdo Gigante   |Montura para el Jarl|
-| Sigurd  | Héroe Mitológico  | Bonificadores de ataque X area|
+| Sigurd  | Héroe Mitológico  | Bonificadores de ataque X area| -->
 
 ###### Tamaño de lozas y Área de Efecto
 Las piezas míticas a diferencias de las piezas normales **ocupan 7 lozas** y su área de efecto es de **9 lozas:**  
@@ -259,7 +259,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
-<tr><th> Efecto: </th><th>Daño x +area TODO</th></tr>
+<tr><th> Lobo Gigante </th><th>El resultado de la tirada de ataque se aplica a 3 losas en el área de efecto</th></tr>
 </table>
 
 ###### Jörmundgander:
@@ -274,13 +274,13 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **16**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
-| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
-<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+<tr><th> Serpiente Gigante </th><th>El resultado de la tirada de ataque se aplica a 2 lozas en el área de efecto</th></tr>
 </table>
 
 ###### Ymir:
@@ -295,13 +295,13 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
-| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
-<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+<tr><th> Gigante de hielo </th><th>El resultado de la tirada de ataque se aplica a 3 losas en el área de efecto. Las piezas que sobreviven al ataque no se pueden mover en el siguiente turno</th></tr>
 </table>
 
 ###### Fafnir:
@@ -316,13 +316,13 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
-| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
-<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+<tr><th> Dragón de fuego </th><th>El resultado de la tirada de ataque se aplica a 3 losas en el área de efecto. Las piezas que sobreviven al ataque no se pueden mover en el siguiente turno</th></tr>
 </table>
 
 ###### NidHogg:   
@@ -337,13 +337,14 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
-| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
-<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+<tr><th> Dragón devorador de cuerpos </th>
+<th>Los puntos de sacrificio ganados con cada ataque exitoso se duplican </th></tr>
 </table>
 
 ###### Auðumbla:
@@ -358,13 +359,13 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
-| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
-<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+<tr><th> Vaca Gigante </th><th>Todas las piezas aliadas dentro del área de efecto ganan +3 a su valor de Armadura</th></tr>
 </table>
 
 ###### Gullinbursti:
@@ -379,13 +380,13 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **16**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
-| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
-<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+<tr><th> Cerdo Gigante </th><th>Cuando se utiliza como montura para un Jarl, otorga +3 al movimiento y +2 al ataque del Jarl. No se podrá atacar al Jarl directamente hasta que Gullinbursti muera o deje de ser usado como montura </th></tr>
 </table>
 
 ###### Sigurd:
@@ -400,13 +401,13 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **15**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
-| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
+| ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
-<tr><th> Efecto: </th><th>Daño x +area</th></tr>
+<tr><th> Héroe Mitológico </th><th>Ocupa el espacio de una pieza Normal. Todas las piezas aliadas dentro del área de efecto tienen +3 en tiradas de ataque </th></tr>
 </table>
 
 
@@ -436,7 +437,7 @@ Para atacar a un/una Jarl, las piezas atacantes deben superar en una tirada de a
 
 **4.** ***+2*** Significa "Incrementa el contador de vidas en 2 unidades, si **una vez por turno** se supera una tirada de 1d20 con ```CD15```".  
 
-**5.** ***-2*** Significa "Decrementa el contador de vidas en 2 unidades, y todas las unidades adyacentes al/la Jarl recibiran un **bonificador de +2** en sus tiradas de ataque **durante este turno**".  
+**5.** ***-2*** Significa "Decrementa el contador de vidas en 2 unidades, y todas las unidades adyacentes al/la Jarl recibirán un **bonificador de +2** en sus tiradas de ataque **durante este turno**".  
 
 **6.** ***-8*** Significa "Decrementa el contador de vidas en 8 unidades, y podrás invocar al campo de batalla (desde la loza de arranque) una criatura Mítica escogida al azar de la baraja correspondiente".   
 
@@ -456,7 +457,7 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 |:-:|---|---|
 |  2 | Valkiria  | Pieza especial  |
 |  2 | Jinete de Pony  | Pieza especial  |
-|  2 | Berseker  | Pieza especial  |
+|  2 | Berserker  | Pieza especial  |
 |  2 | Impulso de batalla  | +1d20 x 1 turno  |
 |  2 | Grito de terror  | -1d20 a un oponente x 1 turno  |
 |  2 | Vigor  | Tu Jarl gana [ ![jarl_life](game_manual_assets/life_icon2.png) + 3 ] |
@@ -483,7 +484,7 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 
 ______________________________________________________________________________
 ### 6. CONFIGURACIÓN INICIAL DE LA PARTIDA
-- Se barajan los mazos de **Fuezas de Batalla Piezas Míticas**
+- Se barajan los mazos de **Fuerzas de Batalla Piezas Míticas**
 
 - Distribución inicial de piezas por cada jugador/ra:  
 
@@ -513,7 +514,7 @@ ______________________________________________________________________________
   **Cada pieza solo puede atacar 1 única vez.**
 
   **4. Final del turno**  
-  Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar que piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
+  Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar qué piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
 ______________________________________________________________________________
 ### 8. OPEN GAME LICENSE  
 
@@ -559,8 +560,8 @@ ______________________________________________________________________________
   - 169 Principales
   - 20 de repuesto
 - Cortas las bases de cada Pieza
-  - 50 bases estandar por cada color (blanco,negro,azul,rojo) (200)
-  - 12 bases grandes para piezas miticas (3 por cada color)
+  - 50 bases estándar por cada color (blanco,negro,azul,rojo) (200)
+  - 12 bases grandes para piezas míticas (3 por cada color)
 
 - Diseñar fichas de apoyo:
   - Piezas Básicas + Equivalencias en canje de Puntos de Sacrificio.
@@ -569,31 +570,31 @@ ______________________________________________________________________________
 
 - Tabla de artes pendientes:
 
-| TIPO DE ARTE       	| DESCRIPCIÓN                   	|  Realizada? 	|
-|--------------------	|-------------------------------	|---	|
-| JARL               	| Lathgerta                     	|  - 	|
-| JARL               	| Ragnar                        	|  - 	|
-| JARL               	| Björn                         	|  - 	|
-| JARL               	| Hervör                        	|  - 	|
-| PIEZA BÁSICA       	| ARQUERO                       	|  - 	|
-| PIEZA BÁSICA       	| LANCERO                       	|  - 	|
-| PIEZA BÁSICA       	| GUERRERO                      	|  - 	|
-| PIEZA ESPECIAL     	| BERSEKER                      	|  - 	|
-| PIEZA ESPECIAL     	| VALKIRIA                      	|  - 	|
-| PIEZA ESPECIAL     	| JINETE DE PONY                	|  - 	|
-| FUERZAS DE BATALLA 	| Impulso de batalla            	|  - 	|
-| FUERZAS DE BATALLA 	| Grito de terror               	|  - 	|
-| FUERZAS DE BATALLA 	| Vigor                         	|  - 	|
-| FUERZAS DE BATALLA 	| Maldición de las runas        	|  - 	|
-| FUERZAS DE BATALLA 	| Ayuda de los aldeanos locales 	|  - 	|
-| FUERZAS DE BATALLA 	| Ayuda del sepulturero         	|  - 	|
-| FUERZAS DE BATALLA 	| Escudo Nuevo                  	|  - 	|
-| FUERZAS DE BATALLA 	| Arma Nueva                    	|  - 	|
-| PIEZAS MÍTICAS     	| Fenrir                        	|  - 	|
-| PIEZAS MÍTICAS     	| Jörmundgander                 	|  - 	|
-| PIEZAS MÍTICAS     	| Ymir                          	|  - 	|
-| PIEZAS MÍTICAS     	| Fafnir                        	|  - 	|
-| PIEZAS MÍTICAS     	| NidHogg                       	|  - 	|
-| PIEZAS MÍTICAS     	| Auðumbla                      	|  - 	|
-| PIEZAS MÍTICAS     	| Gullinbursti                  	|  - 	|
-| PIEZAS MÍTICAS     	| Sigurd                        	|  - 	|
+| TIPO DE ARTE           | DESCRIPCIÓN                       |  Realizada?     |
+|--------------------    |-------------------------------    |---    |
+| JARL                   | Lathgerta                         |  -     |
+| JARL                   | Ragnar                            |  -     |
+| JARL                   | Björn                             |  -     |
+| JARL                   | Hervör                            |  -     |
+| PIEZA BÁSICA           | ARQUERO                           |  -     |
+| PIEZA BÁSICA           | LANCERO                           |  -     |
+| PIEZA BÁSICA           | GUERRERO                          |  -     |
+| PIEZA ESPECIAL         | BERSEKER                          |  -     |
+| PIEZA ESPECIAL         | VALKIRIA                          |  -     |
+| PIEZA ESPECIAL         | JINETE DE PONY                    |  -     |
+| FUERZAS DE BATALLA     | Impulso de batalla                |  -     |
+| FUERZAS DE BATALLA     | Grito de terror                   |  -     |
+| FUERZAS DE BATALLA     | Vigor                             |  -     |
+| FUERZAS DE BATALLA     | Maldición de las runas            |  -     |
+| FUERZAS DE BATALLA     | Ayuda de los aldeanos locales     |  -     |
+| FUERZAS DE BATALLA     | Ayuda del sepulturero             |  -     |
+| FUERZAS DE BATALLA     | Escudo Nuevo                      |  -     |
+| FUERZAS DE BATALLA     | Arma Nueva                        |  -     |
+| PIEZAS MÍTICAS         | Fenrir                            |  -     |
+| PIEZAS MÍTICAS         | Jörmundgander                     |  -     |
+| PIEZAS MÍTICAS         | Ymir                              |  -     |
+| PIEZAS MÍTICAS         | Fafnir                            |  -     |
+| PIEZAS MÍTICAS         | NidHogg                           |  -     |
+| PIEZAS MÍTICAS         | Auðumbla                          |  -     |
+| PIEZAS MÍTICAS         | Gullinbursti                      |  -     |
+| PIEZAS MÍTICAS         | Sigurd                            |  -     |
