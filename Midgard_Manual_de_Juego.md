@@ -1,7 +1,9 @@
 # <p align="center"> MIDGARD : El juego de mesa </p>
 #### Un juego de mesa competitivo inspirado en la cultura Vikinga y la mitología Nordica
 ###### Por: Joan Lopez (jslopezr00@gmail.com)
-###### Repositorio: joanhalo2-hithub
+
+###### Repositorio: https://github.com/joanhalo2/Midgard
+
 ###### Jugadores: 2 - 4 | Tiempo: 60 min
 ###### Licencia: Creative Commons  
 ______________________________________________________________________________
