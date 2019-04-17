@@ -225,7 +225,7 @@ ______________________________________________________________________________
 | Jörmundgander   | Serpiente Gigante|Veneno X área|
 | Ymir  | Gigante de hielo |Daño x +área|
 | Fafnir | Dragón de fuego  |Daño x +área|
-| NidHogg  | Dragón devorador de cuerpos |Multiplica puntos de sacrificio|
+| Nidhogg  | Dragón devorador de cuerpos |Multiplica puntos de sacrificio|
 | Auðumbla  | Vaca Gigante  |Bonificadores de armadura X +área|
 | Gullinbursti  |Cerdo Gigante   |Montura para el Jarl|
 | Sigurd  | Héroe Mitológico  | Bonificadores de ataque X area| -->
@@ -325,10 +325,10 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Dragón de fuego </th><th>El resultado de la tirada de ataque se aplica a 3 losas en el área de efecto. Las piezas que sobreviven al ataque no se pueden mover en el siguiente turno</th></tr>
 </table>
 
-###### NidHogg:   
+###### Nidhogg:   
 <!-------------------------------- NidHogg -------------------------------------->
 <table>
-<tr><th> NidHogg </th><th> VALORES</th></tr>
+<tr><th> Nidhogg </th><th> VALORES</th></tr>
 <tr><td>
 
 ![token](game_manual_assets/Mitic.png)
@@ -344,7 +344,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
 </td></tr>
 <tr><th> Dragón devorador de cuerpos </th>
-<th>Los puntos de sacrificio ganados con cada ataque exitoso se duplican </th></tr>
+<th>Los puntos de sacrificio ganados con cada ataque exitoso de Nidhogg se duplican </th></tr>
 </table>
 
 ###### Auðumbla:
@@ -509,11 +509,15 @@ ______________________________________________________________________________
   **2. Fase de Movimiento**  
   Por cada turno se disponen de **hasta un máximo de 3 unidades de movimiento ( ![movimiento](game_manual_assets/mov_icon.png) )**, estas unidades se pueden distribuir libremente entre las piezas deseadas.
 
-  **3. Fase de Ataque**  
+  **3. Fase de Jarl**
+  Se activa una de las habilidades del/la Jarl. Si se invocarón piezas míticas, estas podrán
+  moverse hasta el próximo turno.
+
+  **4. Fase de Ataque**  
   Por cada turno, luego de haberse llevado a cabo la fase de Movimiento correspondiente, **Se pueden declarar hasta un máximo de 3 piezas atacantes que cumplan los requisitos de alcance.**
   **Cada pieza solo puede atacar 1 única vez.**
 
-  **4. Final del turno**  
+  **5. Final del turno**  
   Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar qué piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
 ______________________________________________________________________________
 ### 8. OPEN GAME LICENSE  
@@ -576,25 +580,25 @@ ______________________________________________________________________________
 | JARL                   | Ragnar                            |  -     |
 | JARL                   | Björn                             |  -     |
 | JARL                   | Hervör                            |  -     |
-| PIEZA BÁSICA           | ARQUERO                           |  -     |
-| PIEZA BÁSICA           | LANCERO                           |  -     |
-| PIEZA BÁSICA           | GUERRERO                          |  -     |
-| PIEZA ESPECIAL         | BERSEKER                          |  -     |
-| PIEZA ESPECIAL         | VALKIRIA                          |  -     |
-| PIEZA ESPECIAL         | JINETE DE PONY                    |  -     |
-| FUERZAS DE BATALLA     | Impulso de batalla                |  -     |
-| FUERZAS DE BATALLA     | Grito de terror                   |  -     |
-| FUERZAS DE BATALLA     | Vigor                             |  -     |
-| FUERZAS DE BATALLA     | Maldición de las runas            |  -     |
-| FUERZAS DE BATALLA     | Ayuda de los aldeanos locales     |  -     |
-| FUERZAS DE BATALLA     | Ayuda del sepulturero             |  -     |
-| FUERZAS DE BATALLA     | Escudo Nuevo                      |  -     |
-| FUERZAS DE BATALLA     | Arma Nueva                        |  -     |
-| PIEZAS MÍTICAS         | Fenrir                            |  -     |
-| PIEZAS MÍTICAS         | Jörmundgander                     |  -     |
-| PIEZAS MÍTICAS         | Ymir                              |  -     |
-| PIEZAS MÍTICAS         | Fafnir                            |  -     |
-| PIEZAS MÍTICAS         | NidHogg                           |  -     |
-| PIEZAS MÍTICAS         | Auðumbla                          |  -     |
-| PIEZAS MÍTICAS         | Gullinbursti                      |  -     |
-| PIEZAS MÍTICAS         | Sigurd                            |  -     |
+| PIEZA BÁSICA           | ARQUERO                           |  X     |
+| PIEZA BÁSICA           | LANCERO                           |  X     |
+| PIEZA BÁSICA           | GUERRERO                          |  X     |
+| PIEZA ESPECIAL         | BERSEKER                          |  X     |
+| PIEZA ESPECIAL         | VALKIRIA                          |  X     |
+| PIEZA ESPECIAL         | JINETE DE PONY                    |  X     |
+| FUERZAS DE BATALLA     | Impulso de batalla                |  X     |
+| FUERZAS DE BATALLA     | Grito de terror                   |  X     |
+| FUERZAS DE BATALLA     | Vigor                             |  X     |
+| FUERZAS DE BATALLA     | Maldición de las runas            |  X     |
+| FUERZAS DE BATALLA     | Ayuda de los aldeanos locales     |  X     |
+| FUERZAS DE BATALLA     | Ayuda del sepulturero             |  X     |
+| FUERZAS DE BATALLA     | Escudo Nuevo                      |  X     |
+| FUERZAS DE BATALLA     | Arma Nueva                        |  X     |
+| PIEZAS MÍTICAS         | Fenrir                            |  X     |
+| PIEZAS MÍTICAS         | Jörmundgander                     |  X     |
+| PIEZAS MÍTICAS         | Ymir                              |  X     |
+| PIEZAS MÍTICAS         | Fafnir                            |  X     |
+| PIEZAS MÍTICAS         | Nidhogg                           |  X     |
+| PIEZAS MÍTICAS         | Auðumbla                          |  X     |
+| PIEZAS MÍTICAS         | Gullinbursti                      |  X     |
+| PIEZAS MÍTICAS         | Sigurd                            |  X     |
