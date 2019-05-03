@@ -458,8 +458,8 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 |  2 | Valkiria  | Pieza especial  |
 |  2 | Jinete de Pony  | Pieza especial  |
 |  2 | Berserker  | Pieza especial  |
-|  2 | Impulso de batalla  | +1d20 x 1 turno  |
-|  2 | Grito de terror  | -1d20 a un oponente x 1 turno  |
+|  2 | Impulso de batalla  | Puedes atacar con 1 pieza adicional x 1 turno  |
+|  2 | Grito de terror  | Un/a oponente solo puede atacar con 2 piezas x 1 turno  |
 |  2 | Vigor  | Tu Jarl gana [ ![jarl_life](game_manual_assets/life_icon2.png) + 3 ] |
 |  1 | Maldición de las runas  | Un Jarl enemigo pierde [ ![jarl_life](game_manual_assets/life_icon2.png) - 3 ]  |
 |  2 | Ayuda de los aldeanos locales | Ganas  [ ![sacrificio](game_manual_assets/sacrifice_icon2.png) X 3 ] |
