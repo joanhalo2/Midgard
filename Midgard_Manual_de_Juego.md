@@ -24,10 +24,10 @@ ______________________________________________________________________________
 **8.** Créditos adicionales   
 ______________________________________________________________________________
 ### 1. RESUMEN DEL JUEGO   
-El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el ejercito de tu contrincante. Se podría definir la esencia del juego con las siguientes preguntas:
+El principal objetivo en MidgardHex es derrotar al Jarl(Regente) que comanda el ejercito de tu contrincante. Se podría definir la esencia del juego con las siguientes preguntas:
 
-- **¿Que tipo de juego es Midgard?**  
-  Midgard es un juego de tipo competitivo cuyo principal objetivo es derrotar al Jarl enemigo derrotando a su vez al ejercito enemigo.  
+- **¿Que tipo de juego es MidgardHex?**  
+  MidgardHex es un juego de tipo competitivo cuyo principal objetivo es derrotar al Jarl enemigo derrotando a su vez al ejercito enemigo.  
 - **¿Qué historia cuenta el juego?**  
   Midgar se inspira en el ajedrez para la base de enfrentamiento entre dos ejércitos Vikingos, pero utiliza elementos de la mitología Nórdica y de aspectos militares historicos de la época Vikinga (siglos IX,X,XII).
 - **¿Para cuantas personas está diseñado?**  
@@ -117,7 +117,7 @@ ______________________________________________________________________________
   <tr><th> GUERRERO </th><th> VALORES</th></tr>
   <tr><td>
 
-  ![token](game_manual_assets/test_token.png)
+  ![token](clipart/arte_final/low_res/guerrero.png)
 
   </td><td>
 
@@ -134,7 +134,7 @@ ______________________________________________________________________________
   <tr><th> ARQUERO </th><th> VALORES</th></tr>
   <tr><td>
 
-  ![token](game_manual_assets/test_token.png)
+  ![token](clipart/arte_final/low_res/arquero.png)
 
   </td><td>
 
@@ -152,7 +152,7 @@ ______________________________________________________________________________
   <tr><th> LANCERO </th><th> VALORES</th></tr>
   <tr><td>
 
-  ![token](game_manual_assets/test_token.png)
+  ![token](clipart/arte_final/low_res/lancero.png)
 
   </td><td>
 
@@ -171,7 +171,7 @@ ______________________________________________________________________________
 <tr><th> BERSERKER </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/test_token.png)
+![token](clipart/arte_final/low_res/berseker.png)
 
 </td><td>
 
@@ -188,7 +188,7 @@ ______________________________________________________________________________
 <tr><th> VALKIRIA </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/test_token.png)
+![token](clipart/arte_final/low_res/valkiria.png)
 
 </td><td>
 
@@ -202,10 +202,10 @@ ______________________________________________________________________________
 </td></tr> </table>
 <!-------------------------------- JINETES DE PONY -------------------------------------->
 <table>
-<tr><th> JINETE DE PONY </th><th> VALORES</th></tr>
+<tr><th> JINETE </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/test_token.png)
+![token](clipart/arte_final/low_res/jinete.png)
 
 </td><td>
 
@@ -247,7 +247,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Fenrir </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/Mitic.png)
+![token](game_manual_assets/miticas/Fenrir.png)
 
 </td><td>
 
@@ -268,7 +268,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Jörmundgander </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/Mitic.png)
+![token](game_manual_assets/miticas/serpiente.png)
 
 </td><td>
 
@@ -289,7 +289,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Ymir </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/Mitic.png)
+![token](game_manual_assets/miticas/gigante.png)
 
 </td><td>
 
@@ -310,7 +310,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Fafnir </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/Mitic.png)
+![token](game_manual_assets/miticas/fafnir.png)
 
 </td><td>
 
@@ -331,7 +331,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Nidhogg </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/Mitic.png)
+![token](game_manual_assets/miticas/Nidhogg.png)
 
 </td><td>
 
@@ -353,7 +353,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Auðumbla </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/Mitic.png)
+![token](game_manual_assets/miticas/vaca.png)
 
 </td><td>
 
@@ -374,7 +374,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Gullinbursti </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/Mitic.png)
+![token](game_manual_assets/miticas/jabali.png)
 
 </td><td>
 
@@ -395,7 +395,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 <tr><th> Sigurd </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](game_manual_assets/Mitic.png)
+![token](game_manual_assets/miticas/sigurd.png)
 
 </td><td>
 
@@ -414,7 +414,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 ##### **4.4 JARLS**  
 
 ###### Principales Características:
-Un o una Jarl, son las piezas más importantes en Midgard, puesto que:
+Un o una Jarl, son las piezas más importantes en MidgardHex, puesto que:
   - **Posee un contador de vidas:**![jarl_life](game_manual_assets/life_icon.png)**. Cuando este llega a cero (0),   el/ la Jarl muere.**   
   - **Al morir un Jarl, se pierde el juego**.   
   - **Es la única pieza capaz de invocar criaturas Míticas**.   
@@ -521,7 +521,7 @@ ______________________________________________________________________________
   Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar qué piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
 
 ### 8. Créditos adicionales
-  - Distintos cliparts usados principalmente en el arte de las piezas míticas y las fuerzas de batalla fueron tomadas de https://www.openclipar.org
+  - Distintos cliparts usados principalmente en el arte de las piezas míticas y las fuerzas de batalla fueron tomadas de https://www.openclipart.org
   - "Warrior dude" Por: Ironthunder bajo la licencia Creative Commons-BY 3.0: https://opengameart.org/content/warrior-dude
   - "Warlord Portrait" Por Justin Nichol bajo la licencia Creative Commons-BY 3.0: https://opengameart.org/content/warlord-portrait
 ______________________________________________________________________________
