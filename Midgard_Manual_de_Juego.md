@@ -1,4 +1,4 @@
-# <p align="center"> MIDGARD : El juego de mesa </p>
+![tablero](game_manual_assets/midgarhex_web_logo.png)
 #### Un juego de mesa competitivo inspirado en la cultura Vikinga y la mitología Nórdica
 ###### Por: Joan Lopez (jslopezr00@gmail.com)
 
@@ -21,7 +21,7 @@ ______________________________________________________________________________
 **5.** Cartas de Fuerza de Batalla  
 **6.** Configuración inicial del tablero   
 **7.** Fases del turno    
-**8.** Recursos  
+**8.** Créditos adicionales   
 ______________________________________________________________________________
 ### 1. RESUMEN DEL JUEGO   
 El principal objetivo en Midgard es derrotar al Jarl(Regente) que comanda el ejercito de tu contrincante. Se podría definir la esencia del juego con las siguientes preguntas:
@@ -519,8 +519,13 @@ ______________________________________________________________________________
 
   **5. Final del turno**  
   Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar qué piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
+
+### 8. Créditos adicionales
+  - Distintos cliparts usados principalmente en el arte de las piezas míticas y las fuerzas de batalla fueron tomadas de https://www.openclipar.org
+  - "Warrior dude" Por: Ironthunder bajo la licencia Creative Commons-BY 3.0: https://opengameart.org/content/warrior-dude
+  - "Warlord Portrait" Por Justin Nichol bajo la licencia Creative Commons-BY 3.0: https://opengameart.org/content/warlord-portrait
 ______________________________________________________________________________
-### 8. OPEN GAME LICENSE  
+### 9. OPEN GAME LICENSE  
 
 ##### OPEN GAME LICENSE Version 1.0a
 
