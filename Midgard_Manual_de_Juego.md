@@ -253,7 +253,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **20**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **21**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -274,8 +274,8 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **16**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+6**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **20**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
@@ -295,8 +295,8 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **23**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
@@ -316,8 +316,8 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **25**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
@@ -337,8 +337,8 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **22**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+3**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
@@ -359,7 +359,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **21**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -380,8 +380,8 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **16**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **20**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+3**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
@@ -401,8 +401,8 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **18**       |
-| ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **21**       |
+| ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **5**  |
