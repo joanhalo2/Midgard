@@ -117,7 +117,7 @@ ______________________________________________________________________________
   <tr><th> GUERRERO </th><th> VALORES</th></tr>
   <tr><td>
 
-  ![token](clipart/arte_final/low_res/guerrero.png)
+  ![token](/game_manual_assets/pawns/guerrero.png)
 
   </td><td>
 
@@ -134,7 +134,7 @@ ______________________________________________________________________________
   <tr><th> ARQUERO </th><th> VALORES</th></tr>
   <tr><td>
 
-  ![token](clipart/arte_final/low_res/arquero.png)
+  ![token](/game_manual_assets/pawns/arquero.png)
 
   </td><td>
 
@@ -152,7 +152,7 @@ ______________________________________________________________________________
   <tr><th> LANCERO </th><th> VALORES</th></tr>
   <tr><td>
 
-  ![token](clipart/arte_final/low_res/lancero.png)
+  ![token](/game_manual_assets/pawns/lancero.png)
 
   </td><td>
 
@@ -171,7 +171,7 @@ ______________________________________________________________________________
 <tr><th> BERSERKER </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](clipart/arte_final/low_res/berseker.png)
+![token](/game_manual_assets/pawns/berseker.png)
 
 </td><td>
 
@@ -188,7 +188,7 @@ ______________________________________________________________________________
 <tr><th> VALKIRIA </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](clipart/arte_final/low_res/valkiria.png)
+![token](/game_manual_assets/pawns/valkiria.png)
 
 </td><td>
 
@@ -205,7 +205,7 @@ ______________________________________________________________________________
 <tr><th> JINETE </th><th> VALORES</th></tr>
 <tr><td>
 
-![token](clipart/arte_final/low_res/jinete.png)
+![token](/game_manual_assets/pawns/jinete.png)
 
 </td><td>
 
@@ -502,14 +502,14 @@ ______________________________________________________________________________
 ### 7. FASES DEL TURNO  
 
   **1. Fase de Sacrificios**  
-  Al inicio de cada turno se pueden gastar los puntos de sacrificio conseguidos hasta el momento ( ![sacrificio](game_manual_assets/sacrifice_icon2.png) ) para obtener ***cartas de apoyo*** bien sean ***Fuerzas de Batalla o Favores de los Dioses***. Los puntos de sacrificio usados no pueden ser recuperados.
+  Al inicio de cada turno se pueden gastar los puntos de sacrificio conseguidos hasta el momento ( ![sacrificio](game_manual_assets/sacrifice_icon2.png) ) para obtener ***Cartas de Apoyo*** bien sean ***Fuerzas de Batalla o Favores de los Dioses***. Los puntos de sacrificio usados no pueden ser recuperados.
 
   **Si se obtuvieron nuevas piezas, estas ingresan en la LOZA DE ARRANQUE correspondiente**.
 
   **2. Fase de Movimiento**  
   Por cada turno se disponen de **hasta un máximo de 3 unidades de movimiento ( ![movimiento](game_manual_assets/mov_icon.png) )**, estas unidades se pueden distribuir libremente entre las piezas deseadas.
 
-  **3. Fase de Jarl**
+  **3. Fase de Jarl**  
   Se activa una de las habilidades del/la Jarl. Si se invocarón piezas míticas, estas podrán
   moverse hasta el próximo turno.
 
@@ -561,49 +561,4 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 15. COPYRIGHT NOTICE
 Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
-
 ______________________________________________________________________________
-
-### 9 Recursos de Clip Art por hacer:
-- Cortas piezas hexagonales (169 mínimo +20 de repuesto)
-  - 169 Principales
-  - 20 de repuesto
-- Cortas las bases de cada Pieza
-  - 50 bases estándar por cada color (blanco,negro,azul,rojo) (200)
-  - 12 bases grandes para piezas míticas (3 por cada color)
-
-- Diseñar fichas de apoyo:
-  - Piezas Básicas + Equivalencias en canje de Puntos de Sacrificio.
-  - Fases del Turno + resumen normas (CD, ventaja, desventaja).
-  - Tabla de Favores de los Dioses
-
-- Tabla de artes pendientes:
-
-| TIPO DE ARTE           | DESCRIPCIÓN                       |  Realizada?     |
-|--------------------    |-------------------------------    |---    |
-| JARL                   | Lathgerta                         |  -     |
-| JARL                   | Ragnar                            |  -     |
-| JARL                   | Björn                             |  -     |
-| JARL                   | Hervör                            |  -     |
-| PIEZA BÁSICA           | ARQUERO                           |  X     |
-| PIEZA BÁSICA           | LANCERO                           |  X     |
-| PIEZA BÁSICA           | GUERRERO                          |  X     |
-| PIEZA ESPECIAL         | BERSEKER                          |  X     |
-| PIEZA ESPECIAL         | VALKIRIA                          |  X     |
-| PIEZA ESPECIAL         | JINETE DE PONY                    |  X     |
-| FUERZAS DE BATALLA     | Impulso de batalla                |  X     |
-| FUERZAS DE BATALLA     | Grito de terror                   |  X     |
-| FUERZAS DE BATALLA     | Vigor                             |  X     |
-| FUERZAS DE BATALLA     | Maldición de las runas            |  X     |
-| FUERZAS DE BATALLA     | Ayuda de los aldeanos locales     |  X     |
-| FUERZAS DE BATALLA     | Ayuda del sepulturero             |  X     |
-| FUERZAS DE BATALLA     | Escudo Nuevo                      |  X     |
-| FUERZAS DE BATALLA     | Arma Nueva                        |  X     |
-| PIEZAS MÍTICAS         | Fenrir                            |  X     |
-| PIEZAS MÍTICAS         | Jörmundgander                     |  X     |
-| PIEZAS MÍTICAS         | Ymir                              |  X     |
-| PIEZAS MÍTICAS         | Fafnir                            |  X     |
-| PIEZAS MÍTICAS         | Nidhogg                           |  X     |
-| PIEZAS MÍTICAS         | Auðumbla                          |  X     |
-| PIEZAS MÍTICAS         | Gullinbursti                      |  X     |
-| PIEZAS MÍTICAS         | Sigurd                            |  X     |
