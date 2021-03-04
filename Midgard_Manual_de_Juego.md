@@ -6,6 +6,7 @@
 
 ###### Jugadores: 2 - 4 | Tiempo: 60 min
 ###### Licencia: Creative Commons  
+###### Versión: 0.3 (Marzo 2021)
 ______________________________________________________________________________
 ## 0. ÍNDICE  
 
@@ -99,19 +100,55 @@ ______________________________________________________________________________
 #### 3.3 ACCIONES  
 
   - **Atacar:**    
-    1. Determinar si en la loza actual se aplica **ventaja** o **desventaja**, caso en el cual se deben lanzar **2d20** y escoger el valor mayor o menor según sea el caso.
-    2. **Lanzar 1d20**
-    3. Al valor del lanzamiento del paso anterior sumar los bonificadores de ataque correspondientes.
+    **1**. Determinar si en la loza actual se aplica **ventaja** o **desventaja**, caso en el cual se deben lanzar **2d20** y escoger el valor mayor o menor según sea el caso.
+    **2**. Declarar la pieza enemiga objetivo del ataque
+    **3**. **Lanzar 1d20**
+    **4**. Al valor del lanzamiento obtenido en el paso anterior sumar los **bonificadores de ataque** de la pieza con la que se está atacando, por ejemplo:
 
-  - **Ataques combinados:(Solo contra unidades Míticas)**   
-    Si 2 o más piezas están adyacentes a una misma pieza Mítica se pueden sumar los resultados de las tiradas de ataque con sus bonificadores correspondientes.
+     | Resultado d20 | Bonificador | Total |
+     |:-------------:|:-----------:|:-----:|
+     | 13  | [![armadura](game_manual_assets/attack_icon2.png) + 2] | **15**|
+
+    **5**. Si el valor total del ataque **supera o iguala** el valor de la armadura de la pieza enemiga objetivo [ ![armadura](game_manual_assets/armor_icon2.png)], entonces la pieza es **destruida**.
+
+    - **Ataques combinados:(Solo contra piezas Míticas)**   
+    Si 3 o más piezas están adyacentes a una misma pieza Mítica se pueden sumar los resultados de las tiradas de ataque con sus bonificadores correspondientes.
 
   - **Realizar sacrificios:**  
-    Canjear las piezas enemigas capturadas por su valor total de **Puntos de Sacrificio** con el objetivo de obtener **Cartas** de ***Fuerza de Batalla*** o ***Favores de los Dioses***.   
+    Canjear las piezas enemigas capturadas por su valor total de **Puntos de Sacrificio** con el objetivo de invocar ***Piezas Especiales*** o de obtener **Cartas** de ***Fuerza de Batalla*** o ***Favores de los Dioses***.
+
+    **[![sacrificio](game_manual_assets/sacrifice_icon2.png) X 3]** : Obtienes una ***Pieza Especial*** a tu elección entre **BERSERKER**, **VALKIRIA** o **JINETE**.
+
+    **[![sacrificio](game_manual_assets/sacrifice_icon2.png) X 3]** : Obtienes una ***Carta de Fuerza de Batalla*** del mazo correspondiente.
+
+    **[![sacrificio](game_manual_assets/sacrifice_icon2.png) X 6]** : Obtienes un lanzamiento de **2d6** en la tabla de ***Favores de los dioses***.
 
 ______________________________________________________________________________
-### 4. PIEZAS  
-##### **4.1 Piezas Básicas**  
+### 4. FASES DEL TURNO  
+
+  **1. Fase de Sacrificios**  
+  Al inicio de cada turno se pueden gastar los puntos de sacrificio conseguidos hasta el momento ( ![sacrificio](game_manual_assets/sacrifice_icon2.png) ) para obtener ***Cartas de Apoyo*** bien sean ***Fuerzas de Batalla o Favores de los Dioses***. Los puntos de sacrificio usados no pueden ser recuperados.
+
+  **Si se obtuvieron nuevas piezas, estas ingresan en la LOZA DE ARRANQUE correspondiente**.
+
+  **2. Fase de Movimiento**  
+  Por cada turno se disponen de **hasta un máximo de 4 unidades de movimiento ( ![movimiento](game_manual_assets/mov_icon.png) )**.
+  Estas unidades se pueden distribuir libremente entre las piezas deseadas.
+  **Nota: Para partidas de más de 2 personas, se recomienda un máximo de 3 unidades de movimiento por turno.**
+
+  **3. Fase de Jarl**  
+  Se activa una de las habilidades del/la Jarl. Si se invocaron piezas míticas, estas podrán
+  moverse hasta el próximo turno.
+
+  **4. Fase de Ataque**  
+  Por cada turno, luego de haberse llevado a cabo la fase de Movimiento correspondiente, **Se pueden declarar hasta un máximo de 3 piezas atacantes que cumplan los requisitos de alcance.**
+  **Cada pieza solo puede atacar 1 única vez.**
+
+  **5. Final del turno**  
+  Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar qué piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
+______________________________________________________________________________
+### 5. PIEZAS  
+##### **5.1 Piezas Básicas**  
 <!-------------------------------- GUERRERO-------------------------------------->
   <table>
   <tr><th> GUERRERO </th><th> VALORES</th></tr>
@@ -129,7 +166,7 @@ ______________________________________________________________________________
   | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
   | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **1**  |
   </td></tr> </table>
-<!-------------------------------- ARQUERO -------------------------------------->
+<!-------------------------------- ARQUERA -------------------------------------->
   <table>
   <tr><th> ARQUERO </th><th> VALORES</th></tr>
   <tr><td>
@@ -165,7 +202,7 @@ ______________________________________________________________________________
   | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **1**  |
   </td></tr> </table>
 
-##### **4.2 Piezas Especiales**   
+##### **5.2 Piezas Especiales**   
 <!-------------------------------- BERSERKER -------------------------------------->
 <table>
 <tr><th> BERSERKER </th><th> VALORES</th></tr>
@@ -218,7 +255,7 @@ ______________________________________________________________________________
 | ![sacrificio](game_manual_assets/sacrifice_icon.png)  | **2**  |
 </td></tr> </table>
 
-##### **4.3 Piezas Míticas**  
+##### **5.3 Piezas Míticas**  
 <!-- | Nombre  | Descripción  | Efecto |
 |:-:|---|---|
 | Fenrir  | Lobo Gigante |Daño x +área|
@@ -253,7 +290,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **21**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **31**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -274,7 +311,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **20**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **30**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+5**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -295,7 +332,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **23**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **33**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -316,7 +353,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **25**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **35**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -337,7 +374,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **22**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **32**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+3**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -359,7 +396,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **21**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **31**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -380,7 +417,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **20**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **30**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+3**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -401,7 +438,7 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 
 |   Característica| Valor                                        |
 |:-----------------:|:------------------------------------------:|
-| ![armadura](game_manual_assets/armor_icon.png)  | **21**       |
+| ![armadura](game_manual_assets/armor_icon.png)  | **31**       |
 | ![ataque](game_manual_assets/attack_icon.png)   | **+4**       |
 | ![movimiento](game_manual_assets/mov_icon.png)  | **1**        |
 | ![alcance](game_manual_assets/alcance_icon.png) | **1**        |
@@ -411,13 +448,13 @@ Todas las piezas míticas se mueven a razón de **1 loza** por movimiento, usand
 </table>
 
 
-##### **4.4 JARLS**  
+##### **5.4 JARLS**  
 
 ###### Principales Características:
 Un o una Jarl, son las piezas más importantes en MidgardHex, puesto que:
   - **Posee un contador de vidas:**![jarl_life](game_manual_assets/life_icon.png)**. Cuando este llega a cero (0),   el/ la Jarl muere.**   
   - **Al morir un Jarl, se pierde el juego**.   
-  - **Es la única pieza capaz de invocar criaturas Míticas**.   
+  - **Es la única pieza capaz de invocar piezas Míticas**.   
   - **Se pueden usar las habilidades de Jarl cada turno**.
 
 ###### Atacar a un/una Jarl:
@@ -444,14 +481,14 @@ Para atacar a un/una Jarl, las piezas atacantes deben superar en una tirada de a
 **7.** Valor inicial del contador de vidas del/la Jarl.  
 
 ______________________________________________________________________________
-### 5. CARTAS DE APOYO
+### 6. CARTAS DE APOYO
 Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game_manual_assets/sacrifice_icon2.png) por carta según la siguiente regla:
 
   **[![sacrificio](game_manual_assets/sacrifice_icon2.png) X 3]** : Obtienes una Carta de Fuerza de Batalla del mazo correspondiente.
 
-  **[![sacrificio](game_manual_assets/sacrifice_icon2.png) X 8]** : Obtienes un lanzamiento de **2d6** en la tabla de ***Favores de los dioses***.
+  **[![sacrificio](game_manual_assets/sacrifice_icon2.png) X 6]** : Obtienes un lanzamiento de **2d6** en la tabla de ***Favores de los dioses***.
 
-#### 5.1 Fuerzas de Batalla  
+#### 6.1 Fuerzas de Batalla  
 
 | Cantidad por Mazo | Nombre  | Efecto  |
 |:-:|---|---|
@@ -467,7 +504,7 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 |  2 | Escudo Nuevo  | Tu Jarl gana [ ![armadura](game_manual_assets/armor_icon2.png) + 3 ] permanentemente |
 |  2 | Arma Nueva  | Tu Jarl gana [ ![armadura](game_manual_assets/attack_icon2.png) + 2 ] permanentemente |  
 
-#### 5.1 Favores de los Dioses    
+#### 6.2 Favores de los Dioses    
 | **Resultado de lanzar 2d6** | **Favor obtenido**  |
 |   :-:   |     ---             |
 |2|Tu Jarl obtiene [ ![armadura](game_manual_assets/life_icon2.png) + 5 ] únicamente por este turno|
@@ -483,7 +520,7 @@ Dichas cartas se obtienen intercambiando puntos de sacrificio ![sacrificio](game
 |12|Ganas **2 unidades especiales a tu elección**|  
 
 ______________________________________________________________________________
-### 6. CONFIGURACIÓN INICIAL DE LA PARTIDA
+### 7. CONFIGURACIÓN INICIAL DE LA PARTIDA
 - Se barajan los mazos de **Fuerzas de Batalla Piezas Míticas**
 
 - Distribución inicial de piezas por cada jugador/ra:  
@@ -499,33 +536,25 @@ ______________________________________________________________________________
 ![tablero](game_manual_assets/tablero_disposicion.png)
 
 ______________________________________________________________________________
-### 7. FASES DEL TURNO  
-
-  **1. Fase de Sacrificios**  
-  Al inicio de cada turno se pueden gastar los puntos de sacrificio conseguidos hasta el momento ( ![sacrificio](game_manual_assets/sacrifice_icon2.png) ) para obtener ***Cartas de Apoyo*** bien sean ***Fuerzas de Batalla o Favores de los Dioses***. Los puntos de sacrificio usados no pueden ser recuperados.
-
-  **Si se obtuvieron nuevas piezas, estas ingresan en la LOZA DE ARRANQUE correspondiente**.
-
-  **2. Fase de Movimiento**  
-  Por cada turno se disponen de **hasta un máximo de 3 unidades de movimiento ( ![movimiento](game_manual_assets/mov_icon.png) )**, estas unidades se pueden distribuir libremente entre las piezas deseadas.
-
-  **3. Fase de Jarl**  
-  Se activa una de las habilidades del/la Jarl. Si se invocarón piezas míticas, estas podrán
-  moverse hasta el próximo turno.
-
-  **4. Fase de Ataque**  
-  Por cada turno, luego de haberse llevado a cabo la fase de Movimiento correspondiente, **Se pueden declarar hasta un máximo de 3 piezas atacantes que cumplan los requisitos de alcance.**
-  **Cada pieza solo puede atacar 1 única vez.**
-
-  **5. Final del turno**  
-  Luego de resolverse los resultados de **las tiradas de ataque** realizadas en la fase anterior, se procede a evaluar qué piezas enemigas se lograron derrotar para hacer un recuento de los **puntos de sacrificio** obtenidos este turno.
 
 ### 8. Créditos adicionales
   - Distintos cliparts usados principalmente en el arte de las piezas míticas y las fuerzas de batalla fueron tomadas de https://www.openclipart.org
   - "Warrior dude" Por: Ironthunder bajo la licencia Creative Commons-BY 3.0: https://opengameart.org/content/warrior-dude
   - "Warlord Portrait" Por Justin Nichol bajo la licencia Creative Commons-BY 3.0: https://opengameart.org/content/warlord-portrait
 ______________________________________________________________________________
-### 9. OPEN GAME LICENSE  
+
+### 9. REGLAS OPCIONALES  
+A continuación se listan algunas reglas que se pueden implementar según la discreción del grupo de juego.
+#### 9.1 Reglas para tiradas críticas y pifias
+Cuando se realizan tiradas de ataque con un **d20**, si se obtiene un valor de **1** se le considera una **pifia**.
+Por el contrario se obtiene un **20**, se le considera un ataque muy exitoso, o **crítico**. Cuando se de dicha situación se pueden aplicar los siguientes resultados:
+
+ | **Resultado d20** | **Acción**  |
+ |   :-:         |     ---     |
+ | 1 |1|  
+ | 20 |10|  
+
+### 10. OPEN GAME LICENSE  
 
 ##### OPEN GAME LICENSE Version 1.0a
 
